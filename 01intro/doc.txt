@@ -1,0 +1,6 @@
+This is a Practice Code for Type Script..
+
+There are three primitives in Javascript and TypeScript.
+==> (boolean number string)
+There are also 2 less common  primitives used in later version of JavaScript and TypeScript.
+==> (bigint and symbol)
